@@ -161,35 +161,6 @@ python src/visualization/create_plots.py
 - Process fewer couples initially
 - Use GPU if available
 
-## Where to Get Data
-
-### Public Sources (with permission):
-1. **Celebrity Couples**
-   - Search for "celebrity couples photos"
-   - Ensure images are clearly licensed
-
-2. **Research Datasets**
-   - LFW (Labeled Faces in the Wild)
-   - CelebA dataset
-   - Academic datasets with proper citation
-
-3. **Your Own Data**
-   - Friends/family (with permission)
-   - Public social media (with consent)
-   - Always respect privacy and get consent
-
-## Next Steps
-
-1. **Collect more data** to improve statistical power
-2. **Run the analysis** with your dataset
-3. **Interpret results** using the blog post template
-4. **Share your findings** on:
-   - Personal blog
-   - Medium/Substack
-   - LinkedIn
-   - GitHub
-   - Twitter/X
-
 ## Help & Support
 
 - **Full Setup**: See [SETUP.md](SETUP.md)
@@ -197,14 +168,6 @@ python src/visualization/create_plots.py
 - **Examples**: Run `python example_usage.py`
 - **Issues**: Open an issue on GitHub
 
-## Citation
-
-```
-[Your Name]. (2024). Do We Date Alike? A Data-Driven Investigation.
-GitHub: https://github.com/yourusername/do-we-date-alike
-```
-
----
 
 **Ready?** Start collecting data and run the pipeline!
 
