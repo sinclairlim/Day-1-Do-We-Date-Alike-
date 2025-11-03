@@ -1,0 +1,172 @@
+{
+  "couples": [
+    {
+      "id": "couple_0000",
+      "person1_image": "data/raw/couple_0000/person1.jpg",
+      "person2_image": "data/raw/couple_0000/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-02 at 11.59.16\u202fPM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0001",
+      "person1_image": "data/raw/couple_0001/person1.jpg",
+      "person2_image": "data/raw/couple_0001/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-02 at 11.59.35\u202fPM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0002",
+      "person1_image": "data/raw/couple_0002/person1.jpg",
+      "person2_image": "data/raw/couple_0002/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-02 at 11.59.42\u202fPM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0003",
+      "person1_image": "data/raw/couple_0003/person1.jpg",
+      "person2_image": "data/raw/couple_0003/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-02 at 11.59.46\u202fPM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0004",
+      "person1_image": "data/raw/couple_0004/person1.jpg",
+      "person2_image": "data/raw/couple_0004/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-02 at 11.59.52\u202fPM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0005",
+      "person1_image": "data/raw/couple_0005/person1.jpg",
+      "person2_image": "data/raw/couple_0005/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-02 at 11.59.56\u202fPM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0006",
+      "person1_image": "data/raw/couple_0006/person1.jpg",
+      "person2_image": "data/raw/couple_0006/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.00.00\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0007",
+      "person1_image": "data/raw/couple_0007/person1.jpg",
+      "person2_image": "data/raw/couple_0007/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.00.07\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0008",
+      "person1_image": "data/raw/couple_0008/person1.jpg",
+      "person2_image": "data/raw/couple_0008/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.00.12\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0009",
+      "person1_image": "data/raw/couple_0009/person1.jpg",
+      "person2_image": "data/raw/couple_0009/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.00.21\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0010",
+      "person1_image": "data/raw/couple_0010/person1.jpg",
+      "person2_image": "data/raw/couple_0010/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.00.27\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0011",
+      "person1_image": "data/raw/couple_0011/person1.jpg",
+      "person2_image": "data/raw/couple_0011/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.00.35\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0012",
+      "person1_image": "data/raw/couple_0012/person1.jpg",
+      "person2_image": "data/raw/couple_0012/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.00.40\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0013",
+      "person1_image": "data/raw/couple_0013/person1.jpg",
+      "person2_image": "data/raw/couple_0013/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.00.47\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0014",
+      "person1_image": "data/raw/couple_0014/person1.jpg",
+      "person2_image": "data/raw/couple_0014/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.00.54\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0015",
+      "person1_image": "data/raw/couple_0015/person1.jpg",
+      "person2_image": "data/raw/couple_0015/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.00.57\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0016",
+      "person1_image": "data/raw/couple_0016/person1.jpg",
+      "person2_image": "data/raw/couple_0016/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.01.10\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0017",
+      "person1_image": "data/raw/couple_0017/person1.jpg",
+      "person2_image": "data/raw/couple_0017/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.01.16\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0018",
+      "person1_image": "data/raw/couple_0018/person1.jpg",
+      "person2_image": "data/raw/couple_0018/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.01.21\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0019",
+      "person1_image": "data/raw/couple_0019/person1.jpg",
+      "person2_image": "data/raw/couple_0019/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.01.24\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0020",
+      "person1_image": "data/raw/couple_0020/person1.jpg",
+      "person2_image": "data/raw/couple_0020/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.01.28\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0021",
+      "person1_image": "data/raw/couple_0021/person1.jpg",
+      "person2_image": "data/raw/couple_0021/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.01.35\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0022",
+      "person1_image": "data/raw/couple_0022/person1.jpg",
+      "person2_image": "data/raw/couple_0022/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.01.38\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    },
+    {
+      "id": "couple_0023",
+      "person1_image": "data/raw/couple_0023/person1.jpg",
+      "person2_image": "data/raw/couple_0023/person2.jpg",
+      "source_image": "/Users/sinclairlim/Desktop/Day1-Celebrity/Screenshot 2025-11-03 at 12.01.42\u202fAM.png",
+      "extraction_method": "automatic_dual_face"
+    }
+  ]
+}

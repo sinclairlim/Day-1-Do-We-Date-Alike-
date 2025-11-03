@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data files (images can be large)
+data/raw/*/
+data/processed/*/
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Keep structure but ignore content
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!results/figures/.gitkeep
+
+# Model files
+*.h5
+*.pb
+*.ckpt
+*.pth
+*.pt
+
+# Results (you may want to commit these)
+# results/*.json
+# results/figures/*.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Test coverage
+.coverage
+htmlcov/
