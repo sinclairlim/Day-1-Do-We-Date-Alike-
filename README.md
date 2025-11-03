@@ -114,6 +114,8 @@ p-value for celebrity couples = 0.0025
 Therefore, celebrity couples tend to end up dating someone more similar looking to them.
 
 ![Couple Similarity Heatmaps](couple_similarity_heatmaps.png)
+![Box Comparison (Celeb)](box_comparison_celeb.png)
+![Box Comparison (Non-Celeb)](box_comparison_nonceleb.png)
 
 ## Future Work
 

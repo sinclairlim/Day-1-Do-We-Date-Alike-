@@ -43,6 +43,9 @@ data/processed/*/
 *.jpg
 *.jpeg
 *.png
+!couple_similarity_heatmaps.png
+!box_comparison_celeb.png
+!box_comparison_nonceleb.png
 *.gif
 
 # Keep structure but ignore content
