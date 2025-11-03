@@ -224,24 +224,6 @@ results/
     └── statistical_summary.png
 ```
 
-## Next Steps
-
-1. Review results in `results/statistical_analysis.json`
-2. Check visualizations in `results/figures/`
-3. Update `blog_post.md` with your findings
-4. Share on social media, blog, or portfolio
-5. Add project to resume/GitHub
-
-## Citation
-
-If you use this code or methodology, please cite:
-
-```
-[Your Name]. (2024). Do We Date Alike? A Data-Driven Investigation
-of Facial Similarity in Romantic Couples. GitHub repository:
-https://github.com/yourusername/do-we-date-alike
-```
-
 ## Support
 
 For issues or questions:
