@@ -108,7 +108,12 @@ python src/visualization/create_plots.py
 
 ## Results
 
-[Results will be populated after analysis]
+p-value for non celebrity couples = 0.35
+p-value for celebrity couples = 0.0025
+
+Therefore, celebrity couples tend to end up dating someone more similar looking to them.
+
+![Couple Similarity Heatmaps](couple_similarity_heatmaps.png)
 
 ## Future Work
 
@@ -119,7 +124,7 @@ python src/visualization/create_plots.py
 
 ## Author
 
-[Your Name]
+Sinclair Lim
 
 ## License
 
